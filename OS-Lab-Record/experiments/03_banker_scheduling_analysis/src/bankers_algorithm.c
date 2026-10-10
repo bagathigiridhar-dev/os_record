@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Roll no: 25071A6230\n");
+    printf("Roll no: 25071A6212\n");
     int n, m, alloc[10][10], max[10][10], need[10][10], avail[10], finish[10] = {0}, safeSeq[10], count = 0;
     printf("Enter number of processes: "); scanf("%d", &n);
     printf("Enter number of resource types: "); scanf("%d", &m);

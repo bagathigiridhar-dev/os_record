@@ -2,7 +2,7 @@
 int main() {
     int n, bt[20], wt[20], tat[20];
     float twt = 0, ttat = 0;
-    printf("Roll no: 25071A6230\n");
+    printf("Roll no: 25071A6212\n");
     printf("Enter number of processes: ");
     scanf("%d", &n);
     for (int i = 0; i < n; i++) {

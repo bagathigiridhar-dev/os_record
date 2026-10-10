@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Roll no: 25071A6230\n");
+    printf("Roll no: 25071A6212\n");
     int m, n, bsize[10], psize[10], alloc[10], occupied[10] = {0};
     printf("Enter number of blocks: "); scanf("%d", &m);
     printf("Enter block sizes: ");

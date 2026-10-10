@@ -1,7 +1,7 @@
 # Experiment 3 — Banker’s Algorithm and Scheduling Analysis
 
 **Date:** 23-07-2026  
-**Roll No.:** 25071A6230
+**Roll No.:** 25071A6212
 
 
 ## Source

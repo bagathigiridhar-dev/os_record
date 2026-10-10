@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Roll no: 25071A6230\n");
+    printf("Roll no: 25071A6212\n");
     int n, p[10], at[10], bt[10], ct[10], tat[10], wt[10], vis[10]={0}, cur=0, done=0;
     float twt=0, ttat=0;
     printf("Enter number of processes: "); scanf("%d", &n);

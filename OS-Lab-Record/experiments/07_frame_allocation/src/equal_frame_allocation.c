@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Roll no: 25071A6230\n\n");
+    printf("Roll no: 25071A6212\n\n");
     int total_frames, m;
     int page_req[10], allocated[10];
 

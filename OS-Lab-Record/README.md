@@ -1,6 +1,10 @@
 # Operating Systems Lab Record — VNRVJIET
 
+**Student:** Bagathi Giridhar Dev  
+**Roll No.:** 25071A6212  
+**GitHub username:** bagathigiridhar-dev
 
+Original source: Ganga Hrushikesh, https://github.com/gangahrushikesh-ghk/os_record
 [Open Experiment 1 README](experiments/01_cpu_scheduling/README.md)
 
 

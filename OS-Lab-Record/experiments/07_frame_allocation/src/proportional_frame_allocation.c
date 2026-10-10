@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-    printf("Roll no: 25071A6230\n\n");
+    printf("Roll no: 25071A6212\n\n");
     int m, n;
     int s[10], a[10];
     int S = 0, total_allocated = 0;
