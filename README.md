@@ -1,9 +1,5 @@
 # Operating Systems Lab Record — VNRVJIET
 
-**Student:** Bagathi Giridhar Dev  
-**Roll No.:** 25071A6212  
-**GitHub username:** bagathigiridhar-dev
-
 Experiment 1 - 01_cpu_scheduling
 
 
